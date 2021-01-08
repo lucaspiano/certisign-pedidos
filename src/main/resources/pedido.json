@@ -1,0 +1,26 @@
+{
+  "pedId": "1",
+  "pedData": "",
+  "prdId": "1",
+  "pedfi": "test",
+  "pedseed": "test",
+  "spedId": "1",
+  "estpin1": "1",
+  "usuId": "1",
+  "pfsCpf": "1",
+  "pfsNome": "test",
+  "pfsEmail": "test@test.com.br",
+  "pfsEndereco": "test 123",
+  "pfsComplemento": "test",
+  "pfsBairro": "test",
+  "pfsMunicipio": "test",
+  "pfsUf": "",
+  "pfsPais": "test",
+  "pfsCep": "1",
+  "pfsTelefone": "1",
+  "pfsDtNascimento": "1",
+  "pfsPis": "1",
+  "pfsRg": "1",
+  "pfsRgEmissor": "test"
+}
+
